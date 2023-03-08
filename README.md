@@ -42,6 +42,6 @@
  <p align="center">
  <a href="https://stackoverflow.com/users/13560831/vidardoes" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="12139409" width="10%" /></a>
  <a href="https://instagram.com/vidardoes" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="vidardoes" width="10%" /></a>
- <a href="https://www.youtube.com/@vidardoes" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" width="10%" /></a>
+ <a href="https://www.youtube.com/@vidartube" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" width="10%" /></a>
  <a href="https://discordapp.com/users/850880785653170206" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="vidardoes#6375" width="10%" /></a>
  </p>
