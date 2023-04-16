@@ -1,10 +1,10 @@
-# [![Davoucii header](https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/cover.png)](https://find-davoucii.netlify.com)
+# [![Davoucii header](https://github.com/dav4thevid/dav4thevid/images/icons/cover.png)](https://find-davoucii.netlify.com)
 <p align='center'>
-<a href="https://dev.to/dav4thevid"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/dav4thevid"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://facebook.com/dav4thevid"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/dav4thevid"><img height="30" src="https://github.com/dav4thevid/dav4thevid/images/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/dav4thevid"><img height="30" src="https://github.com/dav4thevid/dav4thevid/images/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/dav4thevid"><img height="30" src="https://github.com/dav4thevid/dav4thevid/images/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/dav4thevid"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/davoucii/"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/davoucii/"><img height="30" src="https://github.com/dav4thevid/dav4thevid/images/icons/linkedin.png?raw=true"></a>
 </p>
 
 
